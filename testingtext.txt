@@ -4,3 +4,5 @@ gestión y que cumpla con los siguientes requisitos:
 un máximo de 3 participantes.
 2. Si optan por realizar el proyecto en equipo, se entrega de forma individual y cada miembro
 del grupo debe realizar una funcionalidad adicional.
+
+MODIFICADO POR OZUNA.
